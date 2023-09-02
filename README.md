@@ -3,7 +3,7 @@
 
 -   📫 Podes contactarme directamente por medio de mi correo: **lucasagui2205@gmail.com**
 
--   ⚡ Datos curiosos: **Tomo mate practicamente todo el tiempo y me gusta jugar videojuegos**
+-   ⚡ Datos curiosos: **Tomo mate prácticamente todo el tiempo y me gusta jugar videojuegos**
 
 <h3 align="left">Encontrame en:</h3>
 <p align="left">
