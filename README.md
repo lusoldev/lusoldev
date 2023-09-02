@@ -1,5 +1,5 @@
 <h1 align="center">Hola, me llamo Lucas Aguirre</h1>
-<h3 align="center">Soy Desarrollador .NET</h3>
+<h3 align="center">Soy Desarrollador Backend</h3>
 
 -   📫 Podes contactarme directamente por medio de mi correo: **lucasagui2205@gmail.com**
 
