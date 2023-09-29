@@ -1,9 +1,8 @@
 <h1 align="center">Hola, me llamo Lucas Aguirre</h1>
-<h3 align="center">Soy Desarrollador Backend</h3>
+<h3 align="center">Soy Desarrollador Frontend</h3>
 
--   📫 Podes contactarme directamente por medio de mi correo: **lucasagui2205@gmail.com**
-
--   ⚡ Datos curiosos: **Tomo mate prácticamente todo el tiempo y me gusta jugar videojuegos**
+- 📫 Podes contactarme directamente por medio de mi correo: **lucasagui2205@gmail.com**
+- 🔗 Mi sitio web: **<a href="https://lucasagui.com">lucasagui.com</a>**
 
 <h3 align="left">Encontrame en:</h3>
 <p align="left">
