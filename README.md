@@ -36,6 +36,6 @@
 
 ### Contact Me
 
-<a href="https://www.linkedin.com/in/lucasagui2205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Aguirre-blue?style=flat-square&logo=linkedin"></a>
-<a href="lucasagui2205@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-lucasagui2205@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.instagram.com/lucasagui2205/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucasagui2205-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/lucasagui2205/" target="lucas"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Aguirre-blue?style=flat-square&logo=linkedin"></a>
+<p>lucasagui2205@gmail.com <img alt="Email" src="https://img.shields.io/badge/Gmail-lucasagui2205@gmail.com-blue?style=flat-square&logo=gmail"></p>
+<a href="https://www.instagram.com/lucasagui2205/" target="lucas"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lucasagui2205-blue?style=flat-square&logo=instagram"></a>
