@@ -4,7 +4,6 @@
 ### About Me
 
 - Tengo 19 años y soy de Buenos Aires, Argentina.
-- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 
 ### Technologies
 ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-333333?style=flat&label=%20%20%20&labelColor=orangered)
