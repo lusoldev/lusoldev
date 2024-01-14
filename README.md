@@ -10,7 +10,7 @@
 
 #### Front
 
-![React](https://img.shields.io/badge/-React-orangered?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
