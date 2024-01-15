@@ -7,7 +7,7 @@
 
 ### Technologies
 ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-333333?style=flat&label=%20%20%20&labelColor=orangered)
-redux
+
 #### Front
 ![Redux](https://img.shields.io/badge/-Redux-orangered?style=flat&logo=redux)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
