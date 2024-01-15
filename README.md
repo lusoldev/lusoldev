@@ -1,11 +1,11 @@
 <h1>Hola, soy Lucas Aguirre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2>Desarrollador Frontend🎨</h2>
 
-### About Me
+### Sobre mí
 
 - Tengo 20 años y soy de Buenos Aires, Argentina.
 
-### Technologies
+### Tecnologías
 ![Aprendiendo](https://img.shields.io/badge/-Aprendiendo-333333?style=flat&label=%20%20%20&labelColor=orangered)
 
 #### Front
@@ -33,7 +33,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoftexcel)
 ![MarkDown](https://img.shields.io/badge/-MarkDown-333333?style=flat&logo=markdown)
 
-### Contact Me
+### Contáctame
 
 <a href="https://www.linkedin.com/in/lucasagui2205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Aguirre-blue?style=flat-square&logo=linkedin"></a>
 <a href="lucasagui2205@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Gmail-lucasagui2205@gmail.com-blue?style=flat-square&logo=gmail"></a>
