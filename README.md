@@ -13,6 +13,8 @@ Sentite libre de contactarme para conocernos o colaborar en algún proyecto en e
 
 #### Front
 
+![React Design Patterns](https://img.shields.io/badge/-ReactDesignPatterns-orangered?style=flat)
+![GSAP](https://img.shields.io/badge/-GSAP-orangered?style=flat&logo=)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -26,11 +28,13 @@ Sentite libre de contactarme para conocernos o colaborar en algún proyecto en e
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![EJS](https://img.shields.io/badge/-EJS-333333?style=flat&logo=ejs)
 
 #### Herramientas
 
