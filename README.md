@@ -45,6 +45,6 @@ Sentite libre de contactarme para conocernos o colaborar en algún proyecto en e
 
 ### Contáctame
 
-<a href="https://www.linkedin.com/in/lucasagui2205/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lucasagui2205-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.behance.net/lucasagui"> <img alt="Email" src="https://img.shields.io/badge/Behance-lucasagui-blue?style=flat-square&logo=behance"></a>
+<a href="https://www.linkedin.com/in/lusoldev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lusoldev-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.behance.net/lusoldev"> <img alt="Email" src="https://img.shields.io/badge/Behance-lusoldev-blue?style=flat-square&logo=behance"></a>
 <a href="https://www.fiverr.com/lucasagui2205"> <img alt="Email" src="https://img.shields.io/badge/Fiver-lucasagui2205-blue?style=flat-square&logo=fiverr"></a>
