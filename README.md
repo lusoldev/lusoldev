@@ -33,8 +33,8 @@ Sentite libre de contactarme para conocernos o colaborar en algún proyecto en e
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Neon](https://img.shields.io/badge/-Neon-333333?style=flat&logo=supabase)
-![Drizzle](https://img.shields.io/badge/-drizzle-333333?style=flat&logo=ejs)
+![Neon](https://img.shields.io/badge/-Neon-333333?style=flat)
+![Drizzle](https://img.shields.io/badge/-Drizzle-333333?style=flat&logo=ejs)
 
 #### Herramientas
 
