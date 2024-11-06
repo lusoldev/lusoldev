@@ -1,5 +1,5 @@
 <h1>Hola, soy Lucas Aguirre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Desarrollador y Diseñador Web</h2>
+<h2>Desarrollador Full Stack</h2>
 
 Sentite libre de contactarme para conocernos o colaborar en algún proyecto en el que creas que te puedo ayudar.
 
